@@ -1,5 +1,5 @@
 ---
-title: "Asiya Kelifa"
+title: "Curriculum Vitea - Asiya Kelifa"
 layout: single
 permalink: /
 author_profile: true
@@ -8,16 +8,14 @@ author_profile: true
 
 ## 🎓 Education
 
-**Salale University**  
-*Bachelor’s Degree in Computer Science*  
+  
+**BSc in Computer Science**, Salale University
 Dec 2021 – Jun 2025  
-
-**St. Mary’s University**  
-*Bachelor’s Degree in Management*  
+  
+**Bachelor’s Degree in Management**, St. Mary’s University
 Sep 2022 – Jun 2026  
-
-**10 Academy**  
-*AI Mastery Training, Artificial Intelligence*  
+ 
+**AI/ML Mastery Training, Artificial Intelligence**, 10 Academy
 Jun 2025 – Sep 2025  
 
 ---
