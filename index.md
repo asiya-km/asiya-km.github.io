@@ -1,11 +1,10 @@
-
-# See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 ---
 title: "Asiya Kelifa"
 layout: single
 permalink: /
 author_profile: true
 ---
+
 
 ## 🎓 Education
 
