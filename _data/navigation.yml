@@ -2,7 +2,7 @@ main:
   - title: "Posts"
     url: /post/
   - title: "Categories"
-    url: /categories/
+    url: /categorie/
   - title: "Tags"
     url: /tag/
   - title: "About"
