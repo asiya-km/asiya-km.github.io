@@ -42,7 +42,7 @@ plugins:
 author:
   name   : "Asiya Kelifa"
   avatar : "/assets/images/profile.jpg"
-  bio    : "CS graduate, cybersecurity & blockchain advocate"
+  bio    : "Computer Science Major"
   links:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
