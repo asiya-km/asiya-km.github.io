@@ -44,9 +44,6 @@ author:
   avatar : "/assets/images/profile.jpg"
   bio    : "CS graduate, cybersecurity & blockchain advocate"
   links:
-    #- label: "Website"
-     # icon: "fas fa-fw fa-link"
-     # url: "https://"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/asiya-kelifa/"
@@ -56,6 +53,7 @@ author:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://x.com/AsiyaKhelifa"
+
 footer:
   links:
     - label: "Twitter"
