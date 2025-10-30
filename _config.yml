@@ -43,7 +43,7 @@ author:
   name   : "Asiya Kelifa"
   avatar : "/assets/images/profile.jpg"
   bio    : "CS graduate, cybersecurity & blockchain advocate"
-  #links:
+  links:
     #- label: "Website"
      # icon: "fas fa-fw fa-link"
      # url: "https://"
