@@ -5,6 +5,12 @@ twitter_username: https://x.com/AsiyaKhelifa
 github_username: https://github.com/asiya-km
 minimal_mistakes_skin: default
 search: true
+# _data/navigation.yml
+- title: "Toggle Dark Mode"
+  icon: "fas fa-moon"
+  url: "#"
+  id: "theme-toggle"
+
 
 # Build settings
 markdown: kramdown
