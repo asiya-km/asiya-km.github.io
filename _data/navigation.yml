@@ -7,3 +7,8 @@ main:
     url: /tag/
   - title: "About"
     url: /abut/
+# _data/navigation.yml
+- title: "Toggle Dark Mode"
+  icon: "fas fa-moon"
+  url: "#"
+  id: "theme-toggle"
