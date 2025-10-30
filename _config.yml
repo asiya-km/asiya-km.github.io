@@ -5,8 +5,8 @@ twitter_username: https://x.com/AsiyaKhelifa
 github_username: https://github.com/asiya-km
 minimal_mistakes_skin: default
 search: true
-
-
+# Enable dark mode toggle
+theme_mode: auto  # options: auto, light, dark
 
 # Build settings
 markdown: kramdown
