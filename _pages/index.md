@@ -10,7 +10,10 @@ author_profile: true
 I am a Computer Science graduate and aspiring penetration tester with hands-on experience in security assessments, vulnerability analysis, and ethical hacking practices. Through supervised labs, CTF exercises, and controlled environments, I'm building expertise in identifying and mitigating security vulnerabilities while following safe and repeatable testing methodologies.
 
 ---
+## 🔧 Technical Skills
 
+<div class="skills-grid">
+<div class="skill-category">
 
 
 ### Cybersecurity
