@@ -1,3 +1,4 @@
+# Site settings
 title: Asiya Kelifa
 email: asiyakhelifa357@gmail.com
 description: "Computer Science graduate passionate about cybersecurity, blockchain, and AI."
@@ -5,34 +6,22 @@ twitter_username: https://x.com/AsiyaKhelifa
 github_username: https://github.com/asiya-km
 minimal_mistakes_skin: default
 search: true
-# Enable dark mode toggle
+
+# Dark mode
 theme_mode: auto  # options: auto, light, dark
 
 # Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
-# Outputting
 permalink: /:categories/:title/
-paginate: 5 # amount of posts to show
+paginate: 5
 paginate_path: /page:num/
-timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: # add your timezone if needed
 
 include:
   - _pages
 
-# Exclude from processing.
-# The following items will not be processed, by default. Create a custom list
-# to override the default setting.
-# exclude:
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
-
-# Plugins (previously gems:)
+# Plugins
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
@@ -41,10 +30,11 @@ plugins:
   - jemoji
   - jekyll-include-cache
 
+# Author information
 author:
-  name   : "Asiya Kelifa"
-  avatar : "/assets/images/profile.jpg"
-  bio    : "Computer Science Major"
+  name: "Asiya Kelifa"
+  avatar: "/assets/images/profile.jpg"
+  bio: "Computer Science Major | Junior Penetration Tester | Cybersecurity Enthusiast"
   links:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
@@ -56,6 +46,7 @@ author:
       icon: "fab fa-fw fa-twitter-square"
       url: "https://x.com/AsiyaKhelifa"
 
+# Footer links
 footer:
   links:
     - label: "LinkedIn"
@@ -68,7 +59,7 @@ footer:
       icon: "fab fa-fw fa-twitter-square"
       url: "https://x.com/AsiyaKhelifa"
 
-
+# Defaults
 defaults:
   # _posts
   - scope:
@@ -89,6 +80,7 @@ defaults:
       layout: single
       author_profile: true
 
+# Category & tag archives
 category_archive:
   type: liquid
   path: /categories/
