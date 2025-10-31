@@ -1,9 +1,9 @@
 # Site settings
-title: Asiya Kelifa
+title: "Asiya Kelifa"
 email: asiyakhelifa357@gmail.com
 description: "Computer Science graduate passionate about cybersecurity, blockchain, and AI."
-twitter_username: https://x.com/AsiyaKhelifa
-github_username: https://github.com/asiya-km
+twitter_username: AsiyaKhelifa
+github_username: asiya-km
 minimal_mistakes_skin: default
 search: true
 
@@ -12,11 +12,11 @@ theme_mode: auto  # options: auto, light, dark
 
 # Build settings
 markdown: kramdown
-remote_theme: mmistakes/minimal-mistakes
+remote_theme: "mmistakes/minimal-mistakes"
 permalink: /:categories/:title/
 paginate: 5
 paginate_path: /page:num/
-timezone: # add your timezone if needed
+timezone: Africa/Addis_Ababa
 
 include:
   - _pages
@@ -43,7 +43,7 @@ author:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/asiya-km"
     - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
+      icon: "fab fa-fw fa-twitter"
       url: "https://x.com/AsiyaKhelifa"
 
 # Footer links
@@ -56,8 +56,14 @@ footer:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/asiya-km"
     - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
+      icon: "fab fa-fw fa-twitter"
       url: "https://x.com/AsiyaKhelifa"
+
+# Navigation (this enables the menu)
+collections:
+  pages:
+    output: true
+    permalink: /:path/
 
 # Defaults
 defaults:
@@ -87,3 +93,9 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
+
+# Remove this if you have it anywhere else (it breaks nav)
+# header_pages:
+#   - about.md
+#   - projects.md
+#   - contact.md
