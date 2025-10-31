@@ -2,13 +2,13 @@
 title: "Asiya Kelifa"
 email: asiyakhelifa357@gmail.com
 description: "Computer Science graduate passionate about cybersecurity, blockchain, and AI."
-twitter_username: AsiyaKhelifa
-github_username: asiya-km
-minimal_mistakes_skin: default
+twitter_username: "AsiyaKhelifa"
+github_username: "asiya-km"
+minimal_mistakes_skin: "default"
 search: true
 
 # Dark mode
-theme_mode: auto  # options: auto, light, dark
+theme_mode: "auto"  # options: auto, light, dark
 
 # Build settings
 markdown: kramdown
@@ -16,10 +16,11 @@ remote_theme: "mmistakes/minimal-mistakes"
 permalink: /:categories/:title/
 paginate: 5
 paginate_path: /page:num/
-timezone: Africa/Addis_Ababa
+timezone: "Africa/Addis_Ababa"
 
 include:
   - _pages
+  - _data   # ✅ Add this line so navigation.yml is read properly
 
 # Plugins
 plugins:
@@ -59,7 +60,7 @@ footer:
       icon: "fab fa-fw fa-twitter"
       url: "https://x.com/AsiyaKhelifa"
 
-# Navigation (this enables the menu)
+# Navigation (make sure _data/navigation.yml exists)
 collections:
   pages:
     output: true
@@ -78,6 +79,7 @@ defaults:
       comments: true
       share: true
       related: true
+
   # _pages
   - scope:
       path: "_pages"
@@ -93,9 +95,3 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
-
-# Remove this if you have it anywhere else (it breaks nav)
-# header_pages:
-#   - about.md
-#   - projects.md
-#   - contact.md
