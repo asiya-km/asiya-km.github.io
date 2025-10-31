@@ -17,7 +17,7 @@ permalink: /lab-challenges/
 - `assets/images/DNS.jpg`  
 - `assets/images/HTTP.jpg`  
 - `assets/images/DNS1.jpg`
-- 
+  
 **Key Lessons:**  
 Learned to trace network layers, interpret packet headers, and reconstruct HTTP flows for practical traffic analysis.
 
