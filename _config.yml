@@ -45,7 +45,7 @@ plugins:
 author:
   name: "Asiya Kelifa"
   avatar: "/assets/images/profile.jpg"
-  bio: "Junior Penetration Tester | Cybersecurity Enthusiast"
+  bio: "Junior Penetration Tester"
   links:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
