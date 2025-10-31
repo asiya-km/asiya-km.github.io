@@ -3,11 +3,6 @@ layout: single
 title: "Asiya Kelifa - Junior Penetration Tester"
 permalink: /
 author_profile: true
-sidebar:
-  - title: "Asiya Kelifa"
-    image: "/assets/images/profile.jpg"
-    image_alt: "Profile photo"
-    text: "Junior Penetration Tester & Cybersecurity Enthusiast"
 ---
 
 ## 🎯 Professional Summary
@@ -19,6 +14,7 @@ I am a Computer Science graduate and aspiring penetration tester with hands-on e
 ## 🔧 Technical Skills
 
 <div class="skills-grid">
+<div class="skill-category">
 
 ### Cybersecurity
 - Web Application Security
@@ -27,16 +23,23 @@ I am a Computer Science graduate and aspiring penetration tester with hands-on e
 - OWASP Top 10
 - Penetration Testing
 
+</div>
+<div class="skill-category">
+
 ### Programming
 - Python • Java • JavaScript
 - PHP • Solidity • Go
 - HTML/CSS • ReactJS
+
+</div>
+<div class="skill-category">
 
 ### Tools & Technologies
 - **Security:** Burp Suite, Wireshark, Nmap, Metasploit
 - **Development:** Git, Docker, Hardhat, Laravel
 - **Platforms:** Linux, Windows, Ethereum Blockchain
 
+</div>
 </div>
 
 ---
