@@ -11,10 +11,7 @@ I am a Computer Science graduate and aspiring penetration tester with hands-on e
 
 ---
 
-## 🔧 Technical Skills
 
-<div class="skills-grid">
-<div class="skill-category">
 
 ### Cybersecurity
 - Web Application Security
