@@ -6,9 +6,6 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.4"
   overlay_image: /assets/images/profile.jpg
-  actions:
-    - label: "View My Projects"
-      url: "/projects/"
 excerpt: "Junior Penetration Tester"
 intro:
   - excerpt: "Hi, I’m **Asiya Kelifa**, a Computer Science graduate and aspiring penetration tester. This portfolio showcases my lab-based security work, vulnerability assessments, and practical experience in ethical hacking."
