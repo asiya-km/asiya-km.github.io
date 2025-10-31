@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Asiya Kelifa - Junior Penetration Tester"
+title: "Asiya Kelifa"
 permalink: /
 author_profile: true
 ---
