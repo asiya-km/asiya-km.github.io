@@ -19,6 +19,7 @@ paginate_path: /page:num/
 timezone: "Africa/Addis_Ababa"
 
 include:
+  - assets
   - _pages
   - _data   # ✅ Add this line so navigation.yml is read properly
 
