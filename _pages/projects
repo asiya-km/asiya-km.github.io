@@ -11,7 +11,8 @@ permalink: /projects/
 **Key Features:**  
 - Subdomain enumeration and DNS resolution  
 - Directory brute force with customizable wordlists  
-- Simple service/version fingerprinting and report export (JSON/HTML)   
+- Simple service/version fingerprinting and report export (JSON/HTML)  
+**Repo:** https://github.com/barkot-hub/Group-45
 **Key Learnings:** Practical automation of recon workflows; handling noisy scans responsibly.
 
 ---
