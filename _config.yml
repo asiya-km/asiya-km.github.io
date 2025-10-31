@@ -18,9 +18,15 @@ paginate: 5
 paginate_path: /page:num/
 timezone: "Africa/Addis_Ababa"
 
+# Add to _config.yml
 include:
   - _pages
   - _data
+  - assets
+
+# Also add this to load the CSS
+sass:
+  sass_dir: assets
 
 # Exclude older posts
 exclude:
