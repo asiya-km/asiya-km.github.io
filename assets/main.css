@@ -1,0 +1,255 @@
+/* Custom CSS for Asiya's Portfolio */
+
+/* Fix profile image in sidebar */
+.author__avatar img {
+    border-radius: 50% !important;
+    border: 4px solid #e3e3e3 !important;
+    width: 200px !important;
+    height: 200px !important;
+    object-fit: cover !important;
+    display: block !important;
+    margin: 0 auto !important;
+}
+
+/* Center sidebar content */
+.author__content {
+    text-align: center !important;
+}
+
+.author__name {
+    font-size: 1.5em !important;
+    margin-bottom: 0.5em !important;
+    color: #2c3e50 !important;
+}
+
+.author__bio {
+    font-size: 0.9em !important;
+    margin-bottom: 1.5em !important;
+    color: #7f8c8d !important;
+}
+
+/* Fix navigation visibility and styling */
+nav {
+    display: block !important;
+    visibility: visible !important;
+}
+
+.nav__list {
+    list-style: none !important;
+    padding: 0 !important;
+    margin: 1em 0 !important;
+}
+
+.nav__item {
+    margin-bottom: 0.5em !important;
+}
+
+.nav__link {
+    display: flex !important;
+    align-items: center !important;
+    padding: 0.7em 1em !important;
+    text-decoration: none !important;
+    color: #2c3e50 !important;
+    border-radius: 5px !important;
+    transition: all 0.3s ease !important;
+    background: #f8f9fa !important;
+}
+
+.nav__link:hover {
+    background-color: #3498db !important;
+    color: white !important;
+    transform: translateX(5px) !important;
+}
+
+.nav__link i {
+    margin-right: 0.8em !important;
+    width: 20px !important;
+    text-align: center !important;
+}
+
+/* Main content styling */
+.page__content h2 {
+    color: #2c3e50 !important;
+    border-bottom: 2px solid #ecf0f1 !important;
+    padding-bottom: 0.5em !important;
+    margin-top: 2em !important;
+}
+
+/* Skills grid */
+.skills-grid {
+    display: grid !important;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)) !important;
+    gap: 1.5em !important;
+    margin: 2em 0 !important;
+}
+
+.skill-category {
+    background: #f8f9fa !important;
+    padding: 1.5em !important;
+    border-radius: 8px !important;
+    border: 1px solid #e3e3e3 !important;
+}
+
+.skill-category h3 {
+    color: #3498db !important;
+    margin-bottom: 1em !important;
+    font-size: 1.2em !important;
+}
+
+.skill-category ul {
+    list-style: none !important;
+    padding: 0 !important;
+}
+
+.skill-category li {
+    padding: 0.5em 0 !important;
+    border-bottom: 1px solid #ecf0f1 !important;
+}
+
+.skill-category li:last-child {
+    border-bottom: none !important;
+}
+
+/* Project cards */
+.project-grid {
+    display: grid !important;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)) !important;
+    gap: 2em !important;
+    margin: 2em 0 !important;
+}
+
+.project-card {
+    background: #f8f9fa !important;
+    border: 1px solid #e3e3e3 !important;
+    border-radius: 8px !important;
+    padding: 1.5em !important;
+    transition: transform 0.3s ease, box-shadow 0.3s ease !important;
+}
+
+.project-card:hover {
+    transform: translateY(-5px) !important;
+    box-shadow: 0 10px 25px rgba(0,0,0,0.1) !important;
+}
+
+.project-card h3 {
+    color: #2c3e50 !important;
+    margin-bottom: 1em !important;
+}
+
+.project-meta {
+    display: flex !important;
+    gap: 0.5em !important;
+    margin: 1em 0 !important;
+    flex-wrap: wrap !important;
+}
+
+.project-meta span {
+    background: #e1f5fe !important;
+    color: #0288d1 !important;
+    padding: 0.3em 0.8em !important;
+    border-radius: 15px !important;
+    font-size: 0.8em !important;
+    font-weight: bold !important;
+}
+
+.project-links {
+    margin-top: 1em !important;
+}
+
+.project-links a {
+    display: inline-block !important;
+    margin-right: 1em !important;
+    color: #3498db !important;
+    text-decoration: none !important;
+    font-weight: bold !important;
+}
+
+.project-links a:hover {
+    text-decoration: underline !important;
+}
+
+/* Lab challenges styling */
+.lab-challenge {
+    background: #f8f9fa !important;
+    border-left: 4px solid #3498db !important;
+    padding: 1.5em !important;
+    margin: 2em 0 !important;
+    border-radius: 0 8px 8px 0 !important;
+}
+
+.lab-challenge h3 {
+    color: #2c3e50 !important;
+    margin-top: 0 !important;
+}
+
+.challenge-meta {
+    display: flex !important;
+    gap: 0.5em !important;
+    margin: 1em 0 !important;
+    flex-wrap: wrap !important;
+}
+
+.challenge-meta span {
+    background: #e1f5fe !important;
+    color: #0288d1 !important;
+    padding: 0.3em 0.8em !important;
+    border-radius: 15px !important;
+    font-size: 0.8em !important;
+    font-weight: bold !important;
+}
+
+/* Contact page styling */
+.contact-links {
+    list-style: none !important;
+    padding: 0 !important;
+}
+
+.contact-links li {
+    margin-bottom: 1em !important;
+    padding: 1em !important;
+    background: #f8f9fa !important;
+    border-radius: 5px !important;
+}
+
+.contact-links a {
+    color: #3498db !important;
+    text-decoration: none !important;
+    font-weight: bold !important;
+}
+
+.contact-links a:hover {
+    text-decoration: underline !important;
+}
+
+/* Responsive design */
+@media (max-width: 768px) {
+    .author__avatar img {
+        width: 150px !important;
+        height: 150px !important;
+    }
+    
+    .skills-grid,
+    .project-grid {
+        grid-template-columns: 1fr !important;
+    }
+    
+    .nav__link {
+        padding: 0.5em !important;
+    }
+}
+
+/* Dark mode support */
+@media (prefers-color-scheme: dark) {
+    .skill-category,
+    .project-card,
+    .lab-challenge,
+    .contact-links li {
+        background: #2d3748 !important;
+        border-color: #4a5568 !important;
+    }
+    
+    .nav__link {
+        background: #2d3748 !important;
+        color: #e2e8f0 !important;
+    }
+}
