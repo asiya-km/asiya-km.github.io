@@ -1,5 +1,5 @@
 # Site settings
-title: "Asiya Kelifa"
+title: "Asiya Kelifa - Junior Penetration Tester"
 email: asiyakhelifa357@gmail.com
 description: "Computer Science graduate passionate about cybersecurity, blockchain, and AI."
 twitter_username: "AsiyaKhelifa"
@@ -8,7 +8,7 @@ minimal_mistakes_skin: "default"
 search: true
 
 # Dark mode
-theme_mode: "auto"  # options: auto, light, dark
+theme_mode: "auto"
 
 # Build settings
 markdown: kramdown
@@ -19,9 +19,12 @@ paginate_path: /page:num/
 timezone: "Africa/Addis_Ababa"
 
 include:
-  - assets
   - _pages
-  - _data   # ✅ Add this line so navigation.yml is read properly
+  - _data
+
+# Exclude older posts
+exclude:
+  - _posts/
 
 # Plugins
 plugins:
@@ -36,7 +39,7 @@ plugins:
 author:
   name: "Asiya Kelifa"
   avatar: "/assets/images/profile.jpg"
-  bio: "Junior Penetration Tester"
+  bio: "Junior Penetration Tester | Cybersecurity Enthusiast"
   links:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
@@ -44,9 +47,9 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/asiya-km"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter"
-      url: "https://x.com/AsiyaKhelifa"
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope"
+      url: "mailto:asiyakhelifa357@gmail.com"
 
 # Footer links
 footer:
@@ -57,11 +60,8 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/asiya-km"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter"
-      url: "https://x.com/AsiyaKhelifa"
 
-# Navigation (make sure _data/navigation.yml exists)
+# Navigation
 collections:
   pages:
     output: true
@@ -69,30 +69,11 @@ collections:
 
 # Defaults
 defaults:
-  # _posts
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: single
-      author_profile: true
-      read_time: true
-      comments: true
-      share: true
-      related: true
-
-  # _pages
   - scope:
       path: "_pages"
       type: pages
     values:
       layout: single
       author_profile: true
-
-# Category & tag archives
-category_archive:
-  type: liquid
-  path: /categories/
-tag_archive:
-  type: liquid
-  path: /tags/
+      share: true
+      read_time: false
