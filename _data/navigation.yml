@@ -1,13 +1,23 @@
-main:
-  - title: "Posts"
-    url: /post/
-  - title: "Categories"
-    url: /categorie/
-  - title: "Tags"
-    url: /tag/
-  - title: "About"
-    url: /abut/
-# _data/navigation.yml
+- title: "Home"
+  url: "/"
+  icon: "fas fa-home"
+
+- title: "Resume"
+  url: "/resume/"
+  icon: "fas fa-file-alt"
+
+- title: "Projects"
+  url: "/projects/"
+  icon: "fas fa-project-diagram"
+
+- title: "Lab Challenges"
+  url: "/lab-challenges/"
+  icon: "fas fa-flask"
+
+- title: "Contact"
+  url: "/contact/"
+  icon: "fas fa-envelope"
+
 - title: "Toggle Dark Mode"
   icon: "fas fa-moon"
   url: "#"
