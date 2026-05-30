@@ -7,19 +7,20 @@ author_profile: true
 
 ## 🎓 Education
 
-**Salale University** — BSc Computer Science (Dec 2021 – Jun 2025)  
-**St. Mary’s University** — BA Management (Sep 2022 – Jun 2026)  
-**10 Academy** — AI Mastery Training, Artificial Intelligence (Jun 2025 – Sep 2025)  
+**Salale University** — BSc Computer Science (Jun 2025)  
+**Cisco Ethical Hacker** — Cyber Shujaa (Apr 2025)  
 
 ---
 
 ## 💼 Professional Experience
+**Graduate Trainee - IT Security and Fraud Management,Hijra Bank** (Dec 2025-present)
+•
+Performed penetration testing and risk assessments on the bank's internal
+websites and mobile banking apps.
+•
+Monitored firewall, antivirus, and SIEM — gaining defensive insight to
+complement offensive testing skills.
 
-**Huawei Seeds For The Future – Global Ambassador** (Jan 2025 – Present)  
-- Representing Ethiopia in the global Seeds for the Future program,Promoting ICT education and innovation.
-
-**Huawei ICT Academy – Ambassador** (Nov 2024 – Jul 2025)  
-- Empowered students in Huawei ICT programs and training.
 
 **Skylink Technologies – Web Developer Intern** (Jul 2024 – Sep 2024)  
 - Developed web-based solutions with secure authentication.
@@ -36,9 +37,9 @@ author_profile: true
 
 ## 💻 Skills
 
-- Programming: Python, Java, JavaScript, PHP
-- Web Development: HTML, CSS, ReactJS  
-- Cybersecurity
-- Blockchain  
+- security tools : Nmap, Siem, Burp suit, Wireshark
+- Programming: Python, Bash,Java, JavaScript, PHP
+- Web Development: HTML, CSS, ReactJS, Laravel 
+- Networking: TCP/IP,DNS, 
 - AI & Data Analysis  
 
