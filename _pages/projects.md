@@ -18,20 +18,23 @@ permalink: /projects/
 **Key Learnings:** Practical automation of recon workflows; handling noisy scans responsibly.
 
 ---
+## CoopSavings DApp
 
-## 2. TaskChain DApp
-**Description:** A decentralized application for task management using smart contracts — implements task creation, assignment, completion tracking and basic token incentives on an EVM-compatible chain.  
-**Role:** Smart Contract Developer / Frontend Integrator  
-**Tools & Tech:** Solidity, Hardhat, OpenZeppelin, React, ethers.js / web3.js, MetaMask, Ganache / Testnet 
+**Description:** A decentralized cooperative saving and lending platform built on Ethereum that enables community members to pool funds, save collectively, and access loans through peer approval.
 
-**Key Features:**  
-- Trustless task lifecycle recorded on-chain (create → assign → complete → reward)  
-- Frontend dashboard showing on-chain task status and gas‑friendly UX  
-- Basic role-based access & simple token reward mechanism  
-**Live:** `https://asiya-km.github.io/TaskChain-Dapp/`
+**Role:** Smart Contract Developer / Frontend Integrator
+
+**Tools & Tech:** Solidity (v0.8.28), Hardhat, OpenZeppelin, React 18, Vite, Ethers.js, Tailwind CSS, Ethereum Sepolia, Vercel
+
+**Key Features:**
+- Member registration and cooperative saving pool management (deposit/withdraw)
+- Loan request and peer-to-peer approval workflow (community governance)
+- Secure and transparent on-chain transactions for all financial operations
+
+**Live:** `https://asiya-km.github.io/CoopsavingsDapp/`
+
+**Key Learnings:** Smart contract security (access control, reentrancy protection), financial logic implementation (loan approval flows), frontend↔contract interaction patterns, testnet deployment.
   
-**Key Learnings:** Smart contract security practices (use of OpenZeppelin, avoiding reentrancy), gas optimization, frontend↔contract interaction patterns.
-
 ---
 
 ## 3. Web‑based Real Estate Management System (with VR)
