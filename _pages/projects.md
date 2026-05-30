@@ -13,7 +13,7 @@ permalink: /projects/
 - Subdomain enumeration and DNS resolution  
 - Directory brute force with customizable wordlists  
 - Simple service/version fingerprinting and report export (JSON/HTML)  
-**Repo:** https://github.com/barkot-hub/Group-45/
+**Repo:** https://github.com/asiya-km/Web-Recon-and-Vulnerability-testing-tool
   
 **Key Learnings:** Practical automation of recon workflows; handling noisy scans responsibly.
 
@@ -31,7 +31,7 @@ permalink: /projects/
 - Loan request and peer-to-peer approval workflow (community governance)
 - Secure and transparent on-chain transactions for all financial operations
 
-**Live:** `https://asiya-km.github.io/CoopsavingsDapp/`
+**Live:** `https://asiya-km.github.io/CoopsavingDapp/`
 
 **Key Learnings:** Smart contract security (access control, reentrancy protection), financial logic implementation (loan approval flows), frontend↔contract interaction patterns, testnet deployment.
   
