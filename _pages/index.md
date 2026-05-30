@@ -14,9 +14,6 @@ entry-level penetration testing role.
 
 ## 🔧 Technical Skills
 
-<div class="skills-grid">
-<div class="skill-category">
-
  ### Cybersecurity
 - Web Application Security
 - Network Analysis & PCAP
