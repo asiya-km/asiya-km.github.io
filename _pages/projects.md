@@ -31,7 +31,7 @@ permalink: /projects/
 - Loan request and peer-to-peer approval workflow (community governance)
 - Secure and transparent on-chain transactions for all financial operations
 
-**Live:** `https://asiya-km.github.io/CoopsavingDapp/`
+**Live:** https://coopsaving-dapp.vercel.app/
 
 **Key Learnings:** Smart contract security (access control, reentrancy protection), financial logic implementation (loan approval flows), frontend↔contract interaction patterns, testnet deployment.
   
@@ -46,7 +46,7 @@ permalink: /projects/
 - Property CRUD, agent management, contact forms, and booking system  
 - VR tours of properties embedded in the property page  
 - Admin panel for uploading 360° media, analytics, and SEO-friendly listing pages  
-**Repo:** `https://github.com/asiya-km/Real-Estate-Management-system-with-VR`
+**Repo:** https://github.com/asiya-km/Real-Estate-Management-system-with-VR
   
 **Key Learnings:** Developed expertise in building scalable full-stack applications, handling complex data models for properties and users, and integrating immersive technologies like VR for enhanced user experience. Learned best practices in secure file management, responsive design, and creating intuitive admin and client interfaces for real-world workflows.
 
