@@ -12,9 +12,12 @@ fraud experience. Skilled at breaking down systems to identify weaknesses before
 entry-level penetration testing role.
 
 ---
+
+
 ## 🔧 Technical Skills
 
-   **Cybersecurity**
+ **Cybersecurity**
+ 
 - Web Application Security
 - Network Analysis & PCAP
 - Vulnerability Assessment
@@ -22,12 +25,14 @@ entry-level penetration testing role.
 - Penetration Testing
 
 **Programming**
+
 - Python • Java • JavaScript
 - PHP • Solidity • Go
 - HTML/CSS • ReactJS
 
 
-### Tools & Technologies
+**Tools & Technologies**
+
 - **Security:** Burp Suite, Wireshark, Nmap, Metasploit
 - **Development:** Git, Docker, Hardhat, Laravel
 - **Platforms:** Linux, Windows, Ethereum Blockchain
