@@ -40,6 +40,6 @@ complement offensive testing skills.
 - security tools : Nmap, Siem, Burp suit, Wireshark
 - Programming: Python, Bash,Java, JavaScript, PHP
 - Web Development: HTML, CSS, ReactJS, Laravel 
-- Networking: TCP/IP,LAN/WAN, Subnetting
+- Networking: TCP/IP, LAN/WAN, Subnetting
 - AI & Data Analysis  
 
