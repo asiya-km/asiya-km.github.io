@@ -7,7 +7,9 @@ author_profile: true
 
 ## 🎯 Professional Summary
 
-I am a Computer Science graduate and aspiring penetration tester with hands-on experience in security assessments, vulnerability analysis, and ethical hacking practices. Through supervised labs, CTF exercises, and controlled environments, I'm building expertise in identifying and mitigating security vulnerabilities while following safe and repeatable testing methodologies.
+Computer Science graduate (2025) with ethical hacking training (CEH, Cyber Shujaa) and bank IT security &
+fraud experience. Skilled at breaking down systems to identify weaknesses before attackers do. Seeking an
+entry-level penetration testing role.
 
 
 ## 🔧 Technical Skills
