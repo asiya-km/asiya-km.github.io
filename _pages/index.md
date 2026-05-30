@@ -14,31 +14,24 @@ entry-level penetration testing role.
 
 ## 🔧 Technical Skills
 
- ### Cybersecurity
+  ### Cybersecurity
 - Web Application Security
 - Network Analysis & PCAP
 - Vulnerability Assessment
 - OWASP Top 10
 - Penetration Testing
 
-</div>
-<div class="skill-category">
-
 ### Programming
 - Python • Java • JavaScript
 - PHP • Solidity • Go
 - HTML/CSS • ReactJS
 
-</div>
-<div class="skill-category">
 
 ### Tools & Technologies
 - **Security:** Burp Suite, Wireshark, Nmap, Metasploit
 - **Development:** Git, Docker, Hardhat, Laravel
 - **Platforms:** Linux, Windows, Ethereum Blockchain
 
-</div>
-</div>
 
 ---
 
