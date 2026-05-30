@@ -14,11 +14,11 @@ author_profile: true
 
 ## 💼 Professional Experience
 **Graduate Trainee - IT Security and Fraud Management,Hijra Bank** (Dec 2025-present)
-•
-Performed penetration testing and risk assessments on the bank's internal
+
+- Performed penetration testing and risk assessments on the bank's internal
 websites and mobile banking apps.
-•
-Monitored firewall, antivirus, and SIEM — gaining defensive insight to
+
+- Monitored firewall, antivirus, and SIEM — gaining defensive insight to
 complement offensive testing skills.
 
 
@@ -40,6 +40,6 @@ complement offensive testing skills.
 - security tools : Nmap, Siem, Burp suit, Wireshark
 - Programming: Python, Bash,Java, JavaScript, PHP
 - Web Development: HTML, CSS, ReactJS, Laravel 
-- Networking: TCP/IP,DNS, 
+- Networking: TCP/IP,LAN/WAN, Subnetting
 - AI & Data Analysis  
 
