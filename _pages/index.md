@@ -16,10 +16,8 @@ entry-level penetration testing role.
 
 <div class="skills-grid">
 <div class="skill-category">
-  
----
-  
- **Cybersecurity**
+
+ ### Cybersecurity
 - Web Application Security
 - Network Analysis & PCAP
 - Vulnerability Assessment
@@ -29,7 +27,7 @@ entry-level penetration testing role.
 </div>
 <div class="skill-category">
 
-**Programming**
+### Programming
 - Python • Java • JavaScript
 - PHP • Solidity • Go
 - HTML/CSS • ReactJS
@@ -37,7 +35,7 @@ entry-level penetration testing role.
 </div>
 <div class="skill-category">
 
-**Tools & Technologies**
+### Tools & Technologies
 - **Security:** Burp Suite, Wireshark, Nmap, Metasploit
 - **Development:** Git, Docker, Hardhat, Laravel
 - **Platforms:** Linux, Windows, Ethereum Blockchain
