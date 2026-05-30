@@ -11,17 +11,17 @@ Computer Science graduate (2025) with ethical hacking training (CEH, Cyber Shuja
 fraud experience. Skilled at breaking down systems to identify weaknesses before attackers do. Seeking an
 entry-level penetration testing role.
 
-
+---
 ## 🔧 Technical Skills
 
-  ### Cybersecurity
+   **Cybersecurity**
 - Web Application Security
 - Network Analysis & PCAP
 - Vulnerability Assessment
 - OWASP Top 10
 - Penetration Testing
 
-### Programming
+**Programming**
 - Python • Java • JavaScript
 - PHP • Solidity • Go
 - HTML/CSS • ReactJS
